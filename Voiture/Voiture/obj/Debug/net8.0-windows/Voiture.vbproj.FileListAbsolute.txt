@@ -15,3 +15,8 @@ C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\V
 C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.genruntimeconfig.cache
 C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\ref\Voiture.dll
 C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.WMain.resources
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\bin\Debug\net8.0-windows\BibliVoiture.dll
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\bin\Debug\net8.0-windows\BibliVoiture.pdb
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\bin\Debug\net8.0-windows\BibliVoiture.xml
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.vbproj.AssemblyReference.cache
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.vbproj.Up2Date

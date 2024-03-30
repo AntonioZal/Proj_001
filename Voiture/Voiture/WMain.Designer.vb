@@ -22,16 +22,29 @@ Partial Class WMain
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Button1 = New Button()
         SuspendLayout()
         ' 
-        ' Main
+        ' Button1
+        ' 
+        Button1.Location = New Point(12, 12)
+        Button1.Name = "Button1"
+        Button1.Size = New Size(114, 45)
+        Button1.TabIndex = 0
+        Button1.Text = "Création Voiture"
+        Button1.UseVisualStyleBackColor = True
+        ' 
+        ' WMain
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
-        Name = "Main"
+        Controls.Add(Button1)
+        Name = "WMain"
         Text = "Gestion des Distances en Voiture"
         ResumeLayout(False)
     End Sub
+
+    Friend WithEvents Button1 As Button
 
 End Class
