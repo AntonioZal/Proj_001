@@ -1,0 +1,17 @@
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\bin\Debug\net8.0-windows\Voiture.exe
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\bin\Debug\net8.0-windows\Voiture.deps.json
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\bin\Debug\net8.0-windows\Voiture.runtimeconfig.json
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\bin\Debug\net8.0-windows\Voiture.dll
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\bin\Debug\net8.0-windows\Voiture.pdb
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.vbproj.GenerateResource.cache
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.AssemblyInfo.vb
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.vbproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.sourcelink.json
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.dll
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\refint\Voiture.dll
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.pdb
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.genruntimeconfig.cache
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\ref\Voiture.dll
+C:\Users\Antonio\Desktop\Dev\Proj_001\Voiture\Voiture\obj\Debug\net8.0-windows\Voiture.WMain.resources
