@@ -2,7 +2,7 @@
 
 Public Class Voiture
 
-    Private code As Integer
+    Private plaque As String
     Private libelle As String
     Private marque As String
     Private model As String
@@ -10,8 +10,8 @@ Public Class Voiture
     Private couleur As String
     Private kmbase As Integer
 
-    Public Sub New(ByVal wcode As Integer, ByVal wlibelle As String, ByVal wmarque As String, ByVal wmodel As String, ByVal wannee As String, ByVal wcouleur As String, ByVal wkmbase As Integer)
-        Me.code = wcode
+    Public Sub New(ByVal wplaque As String, ByVal wlibelle As String, ByVal wmarque As String, ByVal wmodel As String, ByVal wannee As String, ByVal wcouleur As String, ByVal wkmbase As Integer)
+        Me.plaque = wplaque
         Me.libelle = wlibelle
         Me.marque = wmarque
         Me.model = wmodel
@@ -20,9 +20,17 @@ Public Class Voiture
         Me.kmbase = wkmbase
     End Sub
 
-    Public Function RetournerCode() As Integer
-        Return Me.code
+    Public Sub SupprimerUneVoiture()
+        ' Promis Corentin je le ferrais un jour ! ;)
+    End Sub
+
+    Public Function RetournerPlaque() As String
+        Return Me.plaque
     End Function
+
+    Public Sub ModifierPlaque(ByVal wplaque As String)
+        Me.plaque = wplaque
+    End Sub
 
     Public Function RetournerLibelle() As String
         Return Me.libelle

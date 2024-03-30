@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\Voiture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{317EAB68-8C56-4E42-97A0-83F42BA626EE}|Voiture\\Voiture.vbproj|c:\\users\\antonio\\desktop\\dev\\proj_001\\voiture\\voiture\\wmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{317EAB68-8C56-4E42-97A0-83F42BA626EE}|Voiture\\Voiture.vbproj|solutionrelative:voiture\\wmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{317EAB68-8C56-4E42-97A0-83F42BA626EE}|Voiture\\Voiture.vbproj|c:\\users\\antonio\\desktop\\dev\\proj_001\\voiture\\voiture\\wmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{317EAB68-8C56-4E42-97A0-83F42BA626EE}|Voiture\\Voiture.vbproj|solutionrelative:voiture\\wmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WMain.vb",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\Voiture\\Voiture\\WMain.vb",
+              "RelativeDocumentMoniker": "Voiture\\WMain.vb",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\Voiture\\Voiture\\WMain.vb",
+              "RelativeToolTip": "Voiture\\WMain.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-30T22:38:38.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WMain.vb [Conception]",
               "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\Voiture\\Voiture\\WMain.vb",
               "RelativeDocumentMoniker": "Voiture\\WMain.vb",

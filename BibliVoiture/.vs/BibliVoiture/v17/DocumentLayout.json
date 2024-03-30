@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\BibliVoiture\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF1B1EB-6A03-4C4C-9C21-49044CDEC8B1}|BibliVoiture\\BibliVoiture.vbproj|c:\\users\\antonio\\desktop\\dev\\proj_001\\biblivoiture\\biblivoiture\\ensembledevoiture.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DBF1B1EB-6A03-4C4C-9C21-49044CDEC8B1}|BibliVoiture\\BibliVoiture.vbproj|solutionrelative:biblivoiture\\ensembledevoiture.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF1B1EB-6A03-4C4C-9C21-49044CDEC8B1}|BibliVoiture\\BibliVoiture.vbproj|C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\BibliVoiture\\biblivoiture\\voiture.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DBF1B1EB-6A03-4C4C-9C21-49044CDEC8B1}|BibliVoiture\\BibliVoiture.vbproj|solutionrelative:biblivoiture\\voiture.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnsembleDeVoiture.vb",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\BibliVoiture\\BibliVoiture\\EnsembleDeVoiture.vb",
+              "RelativeDocumentMoniker": "BibliVoiture\\EnsembleDeVoiture.vb",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\BibliVoiture\\BibliVoiture\\EnsembleDeVoiture.vb",
+              "RelativeToolTip": "BibliVoiture\\EnsembleDeVoiture.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-30T22:45:29.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voiture.vb",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\BibliVoiture\\BibliVoiture\\Voiture.vb",
+              "RelativeDocumentMoniker": "BibliVoiture\\Voiture.vb",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\Dev\\Proj_001\\BibliVoiture\\BibliVoiture\\Voiture.vb",
+              "RelativeToolTip": "BibliVoiture\\Voiture.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-30T22:35:35.533Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
