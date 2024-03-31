@@ -22,4 +22,8 @@
         Return lesvoitures.Count
     End Function
 
+    Public Function RetournerUneVoiture(ByVal wi As Integer) As Voiture
+        Return lesvoitures.Item(wi)
+    End Function
+
 End Class

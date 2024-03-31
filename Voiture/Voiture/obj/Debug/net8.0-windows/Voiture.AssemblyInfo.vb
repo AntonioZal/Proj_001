@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Voiture"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e35bf8004c39492d283fad02d5b0923e61b7eaaa"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f6ceffc3701e05120b535b50e9655a3f947e41d"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Voiture"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Voiture"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
